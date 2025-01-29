@@ -1,7 +1,7 @@
 print("Input the price of 5 items from the store")
 
 def Total_purchase():
-    print("Input the price of 5 items from the store")
+    print("Thank you for shopping!")
 item_1 = float(input("1st:"))
 item_2 = float(input("2nd:"))
 item_3 =float(input("3rd:"))
